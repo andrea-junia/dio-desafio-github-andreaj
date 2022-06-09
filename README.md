@@ -15,4 +15,6 @@ Vantagens ->
 Comandos ->
 	vide -> https://git-scm.com/docs/git
 	
+Next steps ->
+	dominar o git / github utilizando ambos em todos os projetos na DIO e demais projetos que eu participar
  
